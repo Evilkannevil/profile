@@ -52,7 +52,8 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 100%;
+  width: auto;
+  color: #18d26e;
 }
 
 div.gallery:hover {
